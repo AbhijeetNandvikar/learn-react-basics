@@ -1,0 +1,23 @@
+{
+  "name": "learn-react-basics",
+  "version": "1.0.0",
+  "description": "This repo contains step by step creation of a react project without using create-react-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhijeetNandvikar/learn-react-basics.git"
+  },
+  "keywords": [
+    "react",
+    "react-dom"
+  ],
+  "author": "AbhijeetNandvikar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbhijeetNandvikar/learn-react-basics/issues"
+  },
+  "homepage": "https://github.com/AbhijeetNandvikar/learn-react-basics#readme"
+}
