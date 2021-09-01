@@ -4,7 +4,8 @@
   "description": "This repo contains step by step creation of a react project without using create-react-app",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write \"src/**/*.{js,jsx}\""
   },
   "repository": {
     "type": "git",
@@ -19,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/AbhijeetNandvikar/learn-react-basics/issues"
   },
-  "homepage": "https://github.com/AbhijeetNandvikar/learn-react-basics#readme"
+  "homepage": "https://github.com/AbhijeetNandvikar/learn-react-basics#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  }
 }
